@@ -47,6 +47,7 @@
 * Complete the Learn the Data Science Tutorials section at: https://www.learnpython.org/
   * Enter each code section in a separate cell and run it in your Jupyter Notebook file.
   * An easy short cut is to hit Shift-Enter after you've entered the code in a cell. This runs the cell and creates a new one below for the next code block.
+  * You will need to create the cars.csv file to use with your Jupyter notebook. (Run the example online to see the data. Can you figure out how to make the csv file using Python? Google is your friend.)
   * When you're done make sure you save your file.
 
 ## Push your updated file to your GitHub repository
