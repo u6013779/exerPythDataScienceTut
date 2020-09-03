@@ -13,7 +13,7 @@
 
 ## Fork & Clone this repository
 
-* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/N6806_Fall2020_DevNotes/blob/master/Projects/002%20-%20Practice%20Using%20Git%20and%20GitHub/README.md
+* We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/exerGitPractice
 * This can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
