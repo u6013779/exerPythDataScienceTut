@@ -22,7 +22,9 @@
   * Select your new folder you created on your machine
   * A new folder for the repository with the repository files should be in the folder you selected showing in the Explorer window in VSCode on the left side.
 
-## Create a new Conda environment for this assignment.
+## Create a new Conda environment for this assignment. (This part is optional.)
+
+See updated instructions for working with environments using Anaconda Navigator on https://github.com/cmcntsh/exerPythBasicsTutorial. (I think it's easier to use Anaconda Navigator.)
 
 * This can be done directly in VSCode
   * Open a new terminal in VSCode.
