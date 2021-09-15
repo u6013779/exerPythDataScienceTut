@@ -6,4 +6,7 @@
 	<string>http://localhost:8888/notebooks/DataScienceTutorial.ipynb</string>
 </dict>
 </plist>
+<<<<<<< HEAD
 commit -m "making changes"
+=======
+>>>>>>> 7a2543771e03cf3ac0c955651e3bfa54888f17c7
